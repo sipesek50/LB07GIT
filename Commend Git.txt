@@ -20,4 +20,4 @@ keterangan :
 <tujuan>		-> diisi sesuai tujuan kiriman kemana tempat untuk push
 <nama file>		-> diisi sesuai nama file yang akan di push
 <comment>		-> diisi bebas
-""			-> pakai tanda petik jika yang <> pakai 
+""			-> pakai tanda petik jika yang <> pakai spasi

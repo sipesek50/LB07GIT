@@ -12,9 +12,12 @@
 
 9. git push -u <variable remote> master		-> untuk mengirim file .git yang sudah di commit ke tujuan dari si variable remote
 
+10. git clone <tujuan>				-> untuk mencopy file git yang ada di tujuan ke file direktori sekarang
+
 
 keterangan :
 <variable remote>	-> bisa diisi bebas sesuai kemauan
 <tujuan>		-> diisi sesuai tujuan kiriman kemana tempat untuk push
 <nama file>		-> diisi sesuai nama file yang akan di push
 <comment>		-> diisi bebas
+""			-> pakai tanda petik jika yang <> pakai 

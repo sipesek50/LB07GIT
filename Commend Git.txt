@@ -1,0 +1,20 @@
+1. git init					-> membuat file .git di dalam direktori yang sedang ditempati
+	
+2. git remote					-> untuk membuka semua variable yang dipakai untuk remote
+3. git remote add <variable remote> <tujuan>	-> untuk menambahkan variable sebagai remote yang punya tujuan
+4. git remote rm <variable remote>		-> untuk menghapus variable yang ada
+
+5. git status					-> untuk melihat status file yang ada apakah siap di commit atau tidak
+6. git add <nama file>				-> untuk menambahkan file ke dalam kategori yang akan di commit
+7. git reset <nama file>			-> untuk menghapus file dari kategori yang akan di commit
+
+8. git commit -m "<comment>"			-> untuk memasukkan semua file dalam kategori ke .git yang sudah dibuat
+
+9. git push -u <variable remote> master		-> untuk mengirim file .git yang sudah di commit ke tujuan dari si variable remote
+
+
+keterangan :
+<variable remote>	-> bisa diisi bebas sesuai kemauan
+<tujuan>		-> diisi sesuai tujuan kiriman kemana tempat untuk push
+<nama file>		-> diisi sesuai nama file yang akan di push
+<comment>		-> diisi bebas
